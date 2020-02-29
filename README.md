@@ -4,7 +4,7 @@ The Fighter Flight Template Pro is a flight simulation template which can help y
 
 ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/Cover.png)
 
-## Support Unity versions
+## Support Unity Versions
 
 5.6.6 or higher
 
