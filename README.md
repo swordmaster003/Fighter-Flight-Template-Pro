@@ -34,8 +34,6 @@ You can download this asset from Unity Asset Store:
 
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/HUD.png)
 
-- The custom editor of each script system on the fighter has been carefully designed.Their appearance is neat and friendly.
-
 - This Pro version of the fighter models are more delicate, and each fighter model has a Landing animation.
 
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/F22Display.png)
@@ -44,7 +42,7 @@ You can download this asset from Unity Asset Store:
   
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/F18Display.png)
 
-  Changing the appearance of the fighter with just one click, and switch to any of the fighter models provided by this package
+- Changing the appearance of the fighter with just one click, and switch to any of the fighter models provided by this package
 
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/Switcher.png)
 
@@ -56,7 +54,7 @@ You can download this asset from Unity Asset Store:
   
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/Environment2.png)
 
-  You can create your own fighter flying game based on either of these two scenes.
+- The custom editor of each script system on the fighter has been carefully designed.Their appearance is neat and friendly.
 
 - Detailed documentation
 
