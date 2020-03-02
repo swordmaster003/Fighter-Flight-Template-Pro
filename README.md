@@ -34,11 +34,8 @@ You can download this asset from Unity Asset Store:
 
 - The custom editor of each script system on the fighter has been carefully designed.Their appearance is neat and friendly.
 
-- Changing the appearance of the fighter with just one click, and switch to any of the 40 fighter models provided by this package,       
-
-  including 20 US fighters, 12 EU fighters, and 8 Russian fighters.
-
-  If you want to switch the appearance of the fighter to your own imported model, just follow the steps on the documentation to switch.
+- This Pro version of the fighter models are more delicate, and each fighter model has a Landing animation.
+  Changing the appearance of the fighter with just one click, and switch to any of the fighter models provided by this package
 
 - Include two big and beautiful environments,they are the Alps Mountain,and the Atacama Desert.
 
