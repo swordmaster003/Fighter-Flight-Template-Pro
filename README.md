@@ -46,7 +46,7 @@ You can download this asset from Unity Asset Store:
 
   Changing the appearance of the fighter with just one click, and switch to any of the fighter models provided by this package
 
- ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/Switcher.png)
+  ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/Switcher.png)
 
 - Include two big and beautiful environments,they are the Alps Mountain,and the Atacama Desert.
 
