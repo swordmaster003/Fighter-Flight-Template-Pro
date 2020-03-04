@@ -13,6 +13,8 @@ The Fighter Flight Template Pro is a flight simulation template which can help y
 You can download this asset from Unity Asset Store:
 [Fighter Flight Template Pro](https://assetstore.unity.com/packages/templates/systems/fighter-flight-template-pro-153640)
 
+## Control
+
 <center>Control On PC:</center>
 
 ![image](https://github.com/swordmaster003/Fighter-Flight-Template-Pro/blob/master/Screenshots/ControlOnPC.png)
